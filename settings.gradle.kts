@@ -21,4 +21,10 @@ dependencyResolutionManagement {
 
 rootProject.name = "MultiModuleComposeBase"
 include(":app")
- 
+include(":core")
+include(":features")
+include(":navigation")
+include(":core:common")
+include(":core:data")
+include(":core:domain")
+include(":core:network")
