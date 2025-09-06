@@ -8,4 +8,5 @@ plugins {
     alias(libs.plugins.ktlint) apply false
     alias(libs.plugins.detekt.plugin) apply false
     alias(libs.plugins.kotlinx.serialization.plugin) apply false
+    alias(libs.plugins.android.library) apply false
 }
