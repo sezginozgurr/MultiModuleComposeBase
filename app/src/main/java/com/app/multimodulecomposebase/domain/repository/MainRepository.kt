@@ -1,0 +1,3 @@
+package com.app.multimodulecomposebase.domain.repository
+
+interface MainRepository
